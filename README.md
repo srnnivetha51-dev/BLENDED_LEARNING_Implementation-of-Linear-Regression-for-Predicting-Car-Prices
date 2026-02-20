@@ -108,17 +108,12 @@ RegisterNumber: 25000724
 ```
 
 ## Output:
-```
-![simple linear regression model for predicting the marks scored](sam.png)
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 133128.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 133140.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 133158.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 133108.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 133051.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-02-15 133005.png
-
-```
-
+![alt text](<Screenshot 2026-02-15 133128.png>)
+![alt text](<Screenshot 2026-02-15 133140.png>)
+![alt text](<Screenshot 2026-02-15 133158-1.png>)
+![alt text](<Screenshot 2026-02-15 133108 - Copy.png>)
+![alt text](<Screenshot 2026-02-15 133051.png>)
+![alt text](<Screenshot 2026-02-15 133005.png>)
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
