@@ -111,9 +111,10 @@ RegisterNumber: 25000724
 ![alt text](<Screenshot 2026-02-15 133128.png>)
 ![alt text](<Screenshot 2026-02-15 133140.png>)
 ![alt text](<Screenshot 2026-02-15 133158-1.png>)
-![alt text](<Screenshot 2026-02-15 133108 - Copy.png>)
-![alt text](<Screenshot 2026-02-15 133051.png>)
-![alt text](<Screenshot 2026-02-15 133005.png>)
+<img width="1113" height="591" alt="1 e" src="https://github.com/user-attachments/assets/b0a434a6-3f51-44c3-85d0-9ed7698d03c9" />
+<img width="1125" height="582" alt="2 e" src="https://github.com/user-attachments/assets/cfd92107-cf1b-4697-a195-56907fbf53bd" />
+<img width="1229" height="508" alt="3 e" src="https://github.com/user-attachments/assets/1601b8b2-acd3-4b03-b153-6209a8b6bbf4" />
+
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
